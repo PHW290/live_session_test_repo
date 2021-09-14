@@ -4,9 +4,6 @@ output: html_notebook
 ---
 
 Hello world, it's Thursday!
-Some thing else here
-test
-
 ```{r}
 plot(cars)
 ```
